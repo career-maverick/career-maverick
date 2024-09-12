@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @career-maverick aka Chiranjeevi Ramamurthy B.Tech., M.S.,
+- 👋 Hi, I’m @career-maverick aka Chiranjeevi Ramamurthy B.Tech., M.S.,M.B.A.,
 - 👀 I’m interested in Java backend API development and iOS apps
 - 🌱 I’m currently learning iOS Programming
 
