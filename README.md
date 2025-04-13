@@ -9,6 +9,8 @@
 <a href="https://twitter.com/career_maverick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="career_maverick" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chiranjeevi-ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeevi-ram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cram1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cram1206" height="30" width="40" /></a>
+
+<a href="https://discordapp.com/users/career_maverick" target="blank><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg" alt="career-maverick" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
