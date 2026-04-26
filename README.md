@@ -2,7 +2,7 @@
 
 ### Bridge-builder between Code and Commerce
 
-With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software development—merging deep technical implementation with strategic business understanding. I specialize in building robust **Java backend architectures** and high-performance **iOS applications**.
+With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software development by merging deep technical implementation with strategic business understanding. I specialize in building robust **Java backend architectures** and high performance **iOS applications**.
 
 ---
 
