@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Chiranjeevi Ramamurthy
+# Hi, I'm Chiranjeevi Ramamurthy
 
-### Bridge-builder between Code and Commerce 🚀
+### Bridge-builder between Code and Commerce 
 
 With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software development—merging deep technical implementation with strategic business understanding. I specialize in building robust **Java backend architectures** and high-performance **iOS applications**.
 
@@ -33,7 +33,7 @@ With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software devel
 
 ---
 
-### 🌟 Selected Projects
+### Selected Projects
 
 > **Scalable Microservices Ledger**  
 > *Developed a high-throughput, ACID-compliant financial ledger system using a microservices architecture. Focused on idempotent transaction processing and distributed data consistency.*  
@@ -49,7 +49,7 @@ With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software devel
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/chiranjeevi-ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiranjeevi-ram" height="30" width="40" /></a>
@@ -59,8 +59,3 @@ With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software devel
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=career-maverick&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=career-maverick&layout=compact&theme=radical)
