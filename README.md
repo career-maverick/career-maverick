@@ -39,22 +39,6 @@ With a B.Tech., M.S., and M.B.A., I bring a unique perspective to software devel
 
 ---
 
-### Selected Projects
-
-> **Scalable Microservices Ledger**  
-> *Developed a high-throughput, ACID-compliant financial ledger system using a microservices architecture. Focused on idempotent transaction processing and distributed data consistency.*  
-> `Java` `Spring Boot` `Kafka` `PostgreSQL` `Redis`
-
-> **Real-Time Collaborative Workspace**  
-> *Architected a multi-tenant backend engine supporting real-time data synchronization across distributed clients. Implemented robust OAuth2 security and dynamic database routing.*  
-> `Java` `Spring Security` `WebSockets` `Docker` `Kubernetes`
-
-> **Native iOS Health Insights**  
-> *Built a performance-focused iOS application leveraging HealthKit and SwiftData. Features include Live Activities for real-time tracking and an offline-first architecture for seamless user experience.*  
-> `Swift` `SwiftUI` `HealthKit` `SwiftData` `Combine`
-
----
-
 ### Connect With Me
 
 <table>
